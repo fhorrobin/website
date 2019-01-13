@@ -1,4 +1,4 @@
-<?php include('../includes/header.html') ?>
+<?php include('includes/header.html') ?>
 
 <div class="row">
         <div class="col-lg-12">
@@ -33,4 +33,4 @@
         </div>
 </div>
 
-<?php include('../includes/footer.html') ?>
+<?php include('includes/footer.html') ?>
