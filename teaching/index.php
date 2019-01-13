@@ -14,7 +14,7 @@
 
         <div class="col-md-3">
             <br/>
-            <img src="teaching/images/calculus.jpeg" class="img-thumbnail" width="350px" height="350px" align="left" />
+            <img src="/~fhorrobin/teaching/images/calculus.jpeg" class="img-thumbnail" width="350px" height="350px" align="left" />
         </div>
         <div class="col-md-9">
 
@@ -26,7 +26,7 @@
             <ul>
                 <li>Basics of matrices and row reduction.</li>
                 <li>A1 is due next week (Week of Jan 21). </li>
-                <li>Link to my <a href="teaching/files/tutorial1.pdf">notes</a>.</li>
+                <li>Link to my <a href="/~fhorrobin/teaching/files/tutorial1.pdf">notes</a>.</li>
             </ul>
             <br/>
 
