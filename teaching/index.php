@@ -19,8 +19,18 @@
         <div class="col-md-9">
 
             <h3>MATA35 - Winter 2019</h3>
-            I will post material for weekly tutorial sessions here within a few days after the tutorial. I may also post other potentially helpful files
-            such as solutions to important problems.
+            <p>I will post material for weekly tutorial sessions here within a few days after the tutorial. I may also post other potentially helpful files
+            such as solutions to important problems.</p>
+
+            <h4>Office Hours:</h4>
+            <p>I will hold office hours for 2 hours each week. The times (for now) are: </p>
+
+            <ul>
+                <li>Tuesdays 1-2PM in AC312</li>
+                <li>Fridays 2-3 in IC404</li>
+            </ul>
+
+            <p>If these times do not work and you would like to setup an appointment send me an email. Note that I will not answer math questions via email so you must ask them either in tutorial or office hours.</p>
 
             <h4>Tutorial 1</h4>
             <ul>
