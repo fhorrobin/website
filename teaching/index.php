@@ -26,8 +26,7 @@
             <p>I will hold office hours for 2 hours each week. The times (for now) are: </p>
 
             <ul>
-                <li>Tuesdays 1-2PM in AC312</li>
-                <li>Fridays 2-3 in IC404</li>
+                <li>Tuesdays 1-3PM in AC312</li>
             </ul>
 
             <p>If these times do not work and you would like to setup an appointment send me an email. Note that I will not answer math questions via email so you must ask them either in tutorial or office hours.</p>
@@ -37,6 +36,13 @@
                 <li>Basics of matrices and row reduction.</li>
                 <li>A1 is due next week (Week of Jan 21). </li>
                 <li>Link to my <a href="/~fhorrobin/teaching/files/tutorial1.pdf">notes</a>.</li>
+            </ul>
+            
+            <h4>Tutorial 2</h4>
+            <ul>
+                <li>Systems of Linear Equations.</li>
+                <li>Quiz #1 is next week (Week of Jan 28). </li>
+                <li>Link to my <a href="/~fhorrobin/teaching/files/tutorial2.pdf">notes</a>.</li>
             </ul>
             <br/>
 
