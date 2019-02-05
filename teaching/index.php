@@ -12,18 +12,22 @@
             <br/><br/>
         </div>
 
+        <div class="col-md-12">
+        <h3>PHYA21 - Interesting Code Examples</h3>
+
+            Here is a link to the code example from the Week 3 Practical in PHYA21 (Winter 2019) on Github. <br/>
+            <a href="https://github.com/fhorrobin/PHYA21-Code-Example/blob/master/A21_Practical3_Small_Angle.ipynb">Link to code for small angle.</a>
+
+            <hr/>
+
+        </div>
+
         <div class="col-md-3">
             <br/>
             <img src="/~fhorrobin/teaching/images/calculus.jpeg" class="img-thumbnail" width="350px" height="350px" align="left" />
         </div>
         <div class="col-md-9">
 
-            <h3>PHYA21 - Interesting Code Examples</h3>
-
-            Here is a link to the code example from the Week 3 Practical in PHYA21 (Winter 2019) on Github. <br/>
-            <a href="https://github.com/fhorrobin/PHYA21-Code-Example/blob/master/A21_Practical3_Small_Angle.ipynb">Link to code for small angle.</a>
-
-            <hr/>
 
             <h3>MATA35 - Winter 2019</h3>
             <p>I will post material for weekly tutorial sessions here within a few days after the tutorial. I may also post other potentially helpful files
