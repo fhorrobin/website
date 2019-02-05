@@ -18,6 +18,13 @@
         </div>
         <div class="col-md-9">
 
+            <h3>PHYA21 - Interesting Code Examples</h3>
+
+            Here is a link to the code example from the Week 3 Practical in PHYA21 (Winter 2019) on Github. <br/>
+            <a href="https://github.com/fhorrobin/PHYA21-Code-Example/blob/master/A21_Practical3_Small_Angle.ipynb">Link to code for small angle.</a>
+
+            <hr/>
+
             <h3>MATA35 - Winter 2019</h3>
             <p>I will post material for weekly tutorial sessions here within a few days after the tutorial. I may also post other potentially helpful files
             such as solutions to important problems.</p>
@@ -37,14 +44,24 @@
                 <li>A1 is due next week (Week of Jan 21). </li>
                 <li>Link to my <a href="/~fhorrobin/teaching/files/tutorial1.pdf">notes</a>.</li>
             </ul>
-            
+
             <h4>Tutorial 2</h4>
             <ul>
                 <li>Systems of Linear Equations.</li>
                 <li>Quiz #1 is next week (Week of Jan 28). </li>
                 <li>Link to my <a href="/~fhorrobin/teaching/files/tutorial2.pdf">notes</a>.</li>
             </ul>
-            <br/>
+
+            <h4>Tutorial 3</h4>
+            <ul>
+                <li>Quiz week - No notes</li>
+
+            </ul><h4>Tutorial 4</h4>
+            <ul>
+                <li>Review of Weeks 1 and 2.</li>
+                <li>Eigenvalue problems.</li>
+                <li>Link to my <a href="/~fhorrobin/teaching/files/tutorial4.pdf">notes</a>.</li>
+            </ul><br/>
 
         </div>
 </div>
