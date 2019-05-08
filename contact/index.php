@@ -12,7 +12,7 @@
 
                 You can also come see me in my office. I split my time between the St. George Campus and the UTSC Campus. Usually I am at St. George on Monday, Wednesday and Friday and UTSC on Tuesday and Thursday.
                 If you want to confirm I am there, feel free to send me an email. My offices are:
-
+                <br/>
                 <br/>
                 <b>St. George:</b> MP 1202C (12th floor of McLennan Physical Laboratories) <br/>
                 <b>UTSC:</b> SW504A (In the Physics and Astrophysics Department on the 5th floor of the Science Wing) <br/>
