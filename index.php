@@ -9,31 +9,19 @@
             </div>
             <div class="col-md-9">
               <p>
-                I am a 4th year student in Physics and Astrophysics at the University of Toronto Scarborough. I am interested in all things related to 
-                mathematical and numerical methods in astrophysics. Primarily, I am interested in finding the answers to questions about how planetary
-                systems form. This includes studying how planets form, the dynamics of astrphysical disks and the dynamics of bodies in the solar system.
-                I enjoy using and developping numerical tools to help answer these questions.
-              <p>
-                In 2017, I worked with Professor Pawel Artymowicz to study Type III planet migration. We developped a high performance NBody integrator that 
-                is able to solve the 3XNBody problem for particle disks with up to 5 billion particles for 1,000 to 10,000 orbits of an embedded planet. 
-                We used this to study Type III planet migration in high resolution in 3D by computing the torques applied by the particles. We found that for
-                rapid migration of large planets, the results of a particle disk simulation are very similar to those found from CFD simulations.
+                I am a 1st year graduate student in the Department of Astrophysics and Astronomy at the University of Toronto.
+                Presently, I am working with Professor Diana Valencia on tidal heating of terrestrial planet surfaces.
               </p>
               <p>
-                  This year I worked with Dr. Almog Yalinewich studying the formation of impact craters from high velocity impactors. We used self similar
-                  analysis and CFD simulations to determine the how the radius of a crater evolves in time and how this relation depends on the impact velocity
-                  and physical parameters of the impactor. We applied this to estimate the distribution of asteroids in the early solar system by using crater
-                  counts from the moon.
+                I am interested in a broad range of topics related to planetary system dynamics, planet formation and protoplanetary discs.
+                Numerical methods such as CFD and NBody simulations appear frequently in my work and I am also interested in analytic/mathematical methods for solving nonlinear problems.
+                In the past, I have worked on problems such as planet migration, impact cratering and dynamically fitting rv signals for planetary systems.
               </p>
               <p>
-                Outside of research and courses, I enjoy teaching. I have been a teaching assistant for PHYA10 (Introduction to Physics), ASTA01 (Introduction to the 
-                Astrophysics of Planetary Systems), CSCA08 (Introduction to Computer Science) and CSCA20 (Introduction to Programming). I have also organized and
-                facilitated Python programming workshops for 1st year physics students. 
-              </p>
-              <p>
-                  When I am not working or studying, I enjoy mountain biking, hiking and just generally being outdoors. I also enjoy commuting around Toronto
-                  by bike. It is a great way to stay fit without whithough taking extra time out of your day!
-              </p>
+                Outside of my research I enjoy teaching and have been a teaching assistant for several physics, math, computer science and astronomy courses.
+                When I am not at work I like to be outdoors, these days I mainly hike and mountain bike but I also like cross country skiing, climbing and kayaking.
+                I also usually commute around Toronto by bike, it is a great way to stay fit while also saving time in your day!
+            </p>
             </div>
             <div class="col-md-3">
               <img src="images/fergus.png" class="img-thumbnail" width="350px" height="350px" align="right" />
@@ -45,9 +33,9 @@
               <h3>Education</h3>
               <p class="indent">
                 <b>Undergraduate studies in Physical and Mathematical Sciences</b><br />
-                <t>2016 - Present: University of Toronto, Scarborough Campus</t>
+                <t>2016 - 2019: University of Toronto, Scarborough Campus</t>
               </p>
-            
+
               <h3>Research</h3>
               <p class="indent">
                     <b>Summer Undergraduate Research Fellowship, CITA at U of T - Summer 2018</b><br />
@@ -67,7 +55,7 @@
                 <h1> </h1>
               <h2>Awards/Grants</h2>
               <p class="indent">
-                    <b>CITA Summer Undergraduate Research Fellowship (Summer 2017)</b><br />
+                    <b>CITA Summer Undergraduate Research Fellowship (Summer 2018)</b><br />
                     Canadian Institute for Theoretical Astrophysics, University of Toronto
                   </p>
               <p class="indent">
